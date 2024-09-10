@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gZcHlsWGZqCN/cMU+INQwAGDY1iv8I1RYXaIjgAvtKs=",
+  "Source": "CustomApi",
+  "BasePath": "_content/CustomApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
